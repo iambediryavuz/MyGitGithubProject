@@ -42,7 +42,6 @@ nokta koyarak versiyon 6'ya tekrar gidiyoruz ve bu defa son versiyonumuz olan v6
 
 
 
-
     }//main
 
 
