@@ -9,10 +9,6 @@ public class AtmProject {
         System.out.println("Git ogrenmek cok kolay");
         //version4
 
-        //version5
-        System.out.println("Java ogrenmek ne kadarda zevkliymis!!");
-        //version6
-
 
 
 
