@@ -36,6 +36,9 @@ nokta koyarak versiyon 6'ya tekrar gidiyoruz ve bu defa son versiyonumuz olan v6
 
         System.out.println("bedir branch'i kodlarini yazdi");
         //version bdr1
+        System.out.println("bir kisim kodlar");
+        //bdr2
+
 
 
 
